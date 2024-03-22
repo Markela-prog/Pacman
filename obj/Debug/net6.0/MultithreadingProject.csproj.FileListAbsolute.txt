@@ -1,0 +1,29 @@
+C:\Users\Markela\Desktop\Paskaitos\Daugiagijis programavimas\Projektas\MultithreadingProject\bin\Debug\net6.0\MultithreadingProject.exe
+C:\Users\Markela\Desktop\Paskaitos\Daugiagijis programavimas\Projektas\MultithreadingProject\bin\Debug\net6.0\MultithreadingProject.deps.json
+C:\Users\Markela\Desktop\Paskaitos\Daugiagijis programavimas\Projektas\MultithreadingProject\bin\Debug\net6.0\MultithreadingProject.runtimeconfig.json
+C:\Users\Markela\Desktop\Paskaitos\Daugiagijis programavimas\Projektas\MultithreadingProject\bin\Debug\net6.0\MultithreadingProject.dll
+C:\Users\Markela\Desktop\Paskaitos\Daugiagijis programavimas\Projektas\MultithreadingProject\bin\Debug\net6.0\MultithreadingProject.pdb
+C:\Users\Markela\Desktop\Paskaitos\Daugiagijis programavimas\Projektas\MultithreadingProject\obj\Debug\net6.0\MultithreadingProject.csproj.AssemblyReference.cache
+C:\Users\Markela\Desktop\Paskaitos\Daugiagijis programavimas\Projektas\MultithreadingProject\obj\Debug\net6.0\MultithreadingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Markela\Desktop\Paskaitos\Daugiagijis programavimas\Projektas\MultithreadingProject\obj\Debug\net6.0\MultithreadingProject.AssemblyInfoInputs.cache
+C:\Users\Markela\Desktop\Paskaitos\Daugiagijis programavimas\Projektas\MultithreadingProject\obj\Debug\net6.0\MultithreadingProject.AssemblyInfo.cs
+C:\Users\Markela\Desktop\Paskaitos\Daugiagijis programavimas\Projektas\MultithreadingProject\obj\Debug\net6.0\MultithreadingProject.csproj.CoreCompileInputs.cache
+C:\Users\Markela\Desktop\Paskaitos\Daugiagijis programavimas\Projektas\MultithreadingProject\obj\Debug\net6.0\MultithreadingProject.dll
+C:\Users\Markela\Desktop\Paskaitos\Daugiagijis programavimas\Projektas\MultithreadingProject\obj\Debug\net6.0\refint\MultithreadingProject.dll
+C:\Users\Markela\Desktop\Paskaitos\Daugiagijis programavimas\Projektas\MultithreadingProject\obj\Debug\net6.0\MultithreadingProject.pdb
+C:\Users\Markela\Desktop\Paskaitos\Daugiagijis programavimas\Projektas\MultithreadingProject\obj\Debug\net6.0\MultithreadingProject.genruntimeconfig.cache
+C:\Users\Markela\Desktop\Paskaitos\Daugiagijis programavimas\Projektas\MultithreadingProject\obj\Debug\net6.0\ref\MultithreadingProject.dll
+C:\Users\Markela\Desktop\Paskaitos\3k2s\Intelektika\Projektas\Multithreading-Project-master\obj\Debug\net6.0\MultithreadingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Markela\Desktop\Paskaitos\3k2s\Intelektika\Projektas\Multithreading-Project-master\obj\Debug\net6.0\MultithreadingProject.AssemblyInfoInputs.cache
+C:\Users\Markela\Desktop\Paskaitos\3k2s\Intelektika\Projektas\Multithreading-Project-master\obj\Debug\net6.0\MultithreadingProject.AssemblyInfo.cs
+C:\Users\Markela\Desktop\Paskaitos\3k2s\Intelektika\Projektas\Multithreading-Project-master\obj\Debug\net6.0\MultithreadingProject.csproj.CoreCompileInputs.cache
+C:\Users\Markela\Desktop\Paskaitos\3k2s\Intelektika\Projektas\Multithreading-Project-master\obj\Debug\net6.0\MultithreadingProject.dll
+C:\Users\Markela\Desktop\Paskaitos\3k2s\Intelektika\Projektas\Multithreading-Project-master\obj\Debug\net6.0\refint\MultithreadingProject.dll
+C:\Users\Markela\Desktop\Paskaitos\3k2s\Intelektika\Projektas\Multithreading-Project-master\obj\Debug\net6.0\MultithreadingProject.pdb
+C:\Users\Markela\Desktop\Paskaitos\3k2s\Intelektika\Projektas\Multithreading-Project-master\bin\Debug\net6.0\MultithreadingProject.exe
+C:\Users\Markela\Desktop\Paskaitos\3k2s\Intelektika\Projektas\Multithreading-Project-master\bin\Debug\net6.0\MultithreadingProject.deps.json
+C:\Users\Markela\Desktop\Paskaitos\3k2s\Intelektika\Projektas\Multithreading-Project-master\bin\Debug\net6.0\MultithreadingProject.runtimeconfig.json
+C:\Users\Markela\Desktop\Paskaitos\3k2s\Intelektika\Projektas\Multithreading-Project-master\bin\Debug\net6.0\MultithreadingProject.dll
+C:\Users\Markela\Desktop\Paskaitos\3k2s\Intelektika\Projektas\Multithreading-Project-master\bin\Debug\net6.0\MultithreadingProject.pdb
+C:\Users\Markela\Desktop\Paskaitos\3k2s\Intelektika\Projektas\Multithreading-Project-master\obj\Debug\net6.0\MultithreadingProject.genruntimeconfig.cache
+C:\Users\Markela\Desktop\Paskaitos\3k2s\Intelektika\Projektas\Multithreading-Project-master\obj\Debug\net6.0\ref\MultithreadingProject.dll

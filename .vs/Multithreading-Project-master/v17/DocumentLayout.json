@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\Bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\Game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\bin\\Debug\\net6.0\\map2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net6.0\\map2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\bin\\Debug\\net6.0\\map1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net6.0\\map1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\Map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "map2.txt",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\bin\\Debug\\net6.0\\map2.txt",
+              "RelativeDocumentMoniker": "bin\\Debug\\net6.0\\map2.txt",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\bin\\Debug\\net6.0\\map2.txt",
+              "RelativeToolTip": "bin\\Debug\\net6.0\\map2.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-08T13:49:45.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "map1.txt",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\bin\\Debug\\net6.0\\map1.txt",
+              "RelativeDocumentMoniker": "bin\\Debug\\net6.0\\map1.txt",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\bin\\Debug\\net6.0\\map1.txt",
+              "RelativeToolTip": "bin\\Debug\\net6.0\\map1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-08T13:49:36.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\Game.cs",
+              "RelativeDocumentMoniker": "Game.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\Game.cs",
+              "RelativeToolTip": "Game.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:31:01.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\Map.cs",
+              "RelativeDocumentMoniker": "Map.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\Map.cs",
+              "RelativeToolTip": "Map.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:21:11.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T15:20:46.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:57:07.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bot.cs",
+              "DocumentMoniker": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\Bot.cs",
+              "RelativeDocumentMoniker": "Bot.cs",
+              "ToolTip": "C:\\Users\\Markela\\Desktop\\Paskaitos\\3k2s\\Intelektika\\Projektas\\Multithreading-Project-master\\Bot.cs",
+              "RelativeToolTip": "Bot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:57:01.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
